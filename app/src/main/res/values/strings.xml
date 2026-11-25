@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="theme_label">🎨 Theme:</string>
+    <string name="theme_blue">Blue</string>
+    <string name="theme_purple">Purple</string>
+    <string name="theme_green">Mint</string>
+    <string name="theme_orange">Coral</string>
+    <string name="theme_light">Light</string>
+    <string name="btn_mod">%</string>
+</resources>
